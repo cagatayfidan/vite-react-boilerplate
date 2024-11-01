@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank" rel="noreferrer">
+      <div className='bg-slate-700'>
+        <a href="https://vite.dev" target="_blank" rel="noreferrer" >
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank" rel="noreferrer">
