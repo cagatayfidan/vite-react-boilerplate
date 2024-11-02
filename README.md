@@ -1,1 +1,8 @@
-# React + TypeScript + Vite + Biomejs + TailwindCSS
+# Packages
+## In this boilerplate
+- TypeScript 
+- React
+- Vite
+- Tailwind
+- Zod
+- Biomejs
